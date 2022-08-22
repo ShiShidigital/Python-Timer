@@ -22,3 +22,4 @@ There will be an alert pop-up on the screen when the time is up.
 ### For Windows 
 There is now an executable version for Windows. 
 You need to download the file 'timer.exe' to a Windows system for it to work.
+This is on the latest version 1.3
